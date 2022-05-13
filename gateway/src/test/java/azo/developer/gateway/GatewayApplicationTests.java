@@ -1,10 +1,10 @@
-package azo.developer.consumer;
+package azo.developer.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConsumerApplicationTests {
+class GatewayApplicationTests {
 
     @Test
     void contextLoads() {

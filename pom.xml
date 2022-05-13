@@ -10,9 +10,9 @@
     <name>demo-microservices</name>
 
     <modules>
-        <module>consumer</module>
         <module>provider</module>
         <module>service-dispatcher</module>
+        <module>gateway</module>
     </modules>
 
 </project>
